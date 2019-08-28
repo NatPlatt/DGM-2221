@@ -1,6 +1,6 @@
 //Maya ASCII 2018 scene
 //Name: raymanLegendsScene.ma
-//Last modified: Wed, Aug 28, 2019 11:34:05 AM
+//Last modified: Wed, Aug 28, 2019 01:02:35 PM
 //Codeset: 1252
 requires maya "2018";
 currentUnit -l centimeter -a degree -t film;
@@ -13,13 +13,13 @@ fileInfo "license" "education";
 createNode transform -s -n "persp";
 	rename -uid "682CA0AE-45BD-FEDB-4694-F9987E20B657";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" 15.154769909271032 16.790758470104258 23.75195971935976 ;
+	setAttr ".t" -type "double3" 6.2193931302111132 22.180149298438891 49.313970555778148 ;
 	setAttr ".r" -type "double3" -14.738352729614457 5.8000000000002734 -5.9942262170955221e-16 ;
 createNode camera -s -n "perspShape" -p "persp";
 	rename -uid "5CF92EE8-4229-D87F-C122-C298721A113F";
 	setAttr -k off ".v" no;
 	setAttr ".fl" 34.999999999999993;
-	setAttr ".coi" 30.27870979919232;
+	setAttr ".coi" 55.370941083182764;
 	setAttr ".imn" -type "string" "persp";
 	setAttr ".den" -type "string" "persp_depth";
 	setAttr ".man" -type "string" "persp_mask";
