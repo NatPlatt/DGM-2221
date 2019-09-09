@@ -590,8 +590,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 83536984}
-  m_LocalRotation: {x: -0.030824345, y: 0.047410287, z: -0.042957064, w: 0.99747527}
-  m_LocalPosition: {x: -4.4180107, y: 0.017728448, z: -13.803143}
+  m_LocalRotation: {x: -0.02977866, y: 0.04807398, z: -0.021101883, w: 0.9981768}
+  m_LocalPosition: {x: -4.4631786, y: 0.5410689, z: -13.828966}
   m_LocalScale: {x: 1.1241, y: 1.1241, z: 1.1241}
   m_Children:
   - {fileID: 1488036365}
@@ -602,7 +602,7 @@ Transform:
   - {fileID: 421861179}
   m_Father: {fileID: 0}
   m_RootOrder: 7
-  m_LocalEulerAnglesHint: {x: -3.292, y: 5.589, z: -5.0930004}
+  m_LocalEulerAnglesHint: {x: -3.292, y: 5.589, z: -2.5830002}
 --- !u!1001 &99600036
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3420,7 +3420,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 425060970}
   m_LocalRotation: {x: -0.9793976, y: 0.17834704, z: 0.036055367, w: -0.0875937}
-  m_LocalPosition: {x: 19.07, y: 8.68, z: 19.64}
+  m_LocalPosition: {x: 20.7, y: 8.1, z: 19.6}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1212690149}
@@ -5021,7 +5021,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 584049305}
   m_LocalRotation: {x: -0, y: -0.1771006, z: -0, w: 0.9841928}
-  m_LocalPosition: {x: 5.48, y: -1.4, z: -3.29}
+  m_LocalPosition: {x: 5.65, y: -1.4, z: -3.23}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1852733752}
@@ -5493,13 +5493,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 637152755}
-  m_LocalRotation: {x: -0, y: -0, z: -0.049989525, w: 0.9987498}
-  m_LocalPosition: {x: -0.1, y: 2.1, z: 1}
+  m_LocalRotation: {x: -0.087952614, y: -0.00012665195, z: -0.10089422, w: 0.9910019}
+  m_LocalPosition: {x: -0.0999998, y: 2.1000032, z: 1.0000001}
   m_LocalScale: {x: 1.267576, y: 0.98573047, z: 1.267576}
   m_Children: []
   m_Father: {fileID: 591458060}
   m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -5.7310004}
+  m_LocalEulerAnglesHint: {x: -10.041, y: 1.018, z: -11.716001}
 --- !u!1 &657262579
 GameObject:
   m_ObjectHideFlags: 0
@@ -11056,6 +11056,22 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: ea6e92ef8e1bc6043be7af83bfaf26b3, type: 2}
+    - target: {fileID: 400000, guid: d62d4c92d4fc3da4fb94a0cfad00afb9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.33999
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: d62d4c92d4fc3da4fb94a0cfad00afb9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.93715
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: d62d4c92d4fc3da4fb94a0cfad00afb9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.0000018725
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: d62d4c92d4fc3da4fb94a0cfad00afb9, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.83889
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d62d4c92d4fc3da4fb94a0cfad00afb9, type: 3}
 --- !u!4 &1275019616 stripped
@@ -16722,6 +16738,7 @@ GameObject:
   - component: {fileID: 2102122904}
   - component: {fileID: 2102122903}
   - component: {fileID: 2102122902}
+  - component: {fileID: 2102122905}
   m_Layer: 0
   m_Name: pileOfWorms
   m_TagString: Untagged
@@ -16801,6 +16818,25 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2102122900}
   m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!95 &2102122905
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2102122900}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 1270b393c15d5454fb642aee5f5e4909, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1001 &2104160921
 PrefabInstance:
   m_ObjectHideFlags: 0
