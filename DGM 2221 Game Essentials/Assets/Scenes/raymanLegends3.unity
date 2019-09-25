@@ -7781,6 +7781,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 328621572}
+  - component: {fileID: 328621573}
   m_Layer: 0
   m_Name: plateStack (2)
   m_TagString: Untagged
@@ -7819,6 +7820,25 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 26
   m_LocalEulerAnglesHint: {x: 5.9750004, y: -167.42001, z: -2.0600002}
+--- !u!95 &328621573
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 328621571}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 76fed7289b0eace40b5e82cd3ced6d84, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &333427526
 GameObject:
   m_ObjectHideFlags: 0
@@ -12557,6 +12577,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 832471747}
+  - component: {fileID: 832471748}
   m_Layer: 0
   m_Name: plateStack (3)
   m_TagString: Untagged
@@ -12595,6 +12616,25 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 27
   m_LocalEulerAnglesHint: {x: 1.7520001, y: 9.9140005, z: 2.3560002}
+--- !u!95 &832471748
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 832471746}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: e09f8688b518d9e419c71aaa1e7da3ee, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1001 &839884345
 PrefabInstance:
   m_ObjectHideFlags: 0
