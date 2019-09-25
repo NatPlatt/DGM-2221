@@ -9380,6 +9380,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 505026085}
+  - component: {fileID: 505026086}
   m_Layer: 0
   m_Name: plateStack (1)
   m_TagString: Untagged
@@ -9418,6 +9419,25 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 25
   m_LocalEulerAnglesHint: {x: -6.1930003, y: 12.5720005, z: -177.93901}
+--- !u!95 &505026086
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 505026084}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 6794284719543e34d875d39af53f97ff, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &511034172
 GameObject:
   m_ObjectHideFlags: 0
@@ -9809,6 +9829,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 566392902}
+  - component: {fileID: 566392903}
   m_Layer: 0
   m_Name: plateStack
   m_TagString: Untagged
@@ -9823,8 +9844,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 566392901}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 12.4, y: -17, z: 41.172}
+  m_LocalRotation: {x: -0.0005002008, y: -0.00079433655, z: -0.010877636, w: 0.99994045}
+  m_LocalPosition: {x: 12.017377, y: -16.682312, z: 41.166397}
   m_LocalScale: {x: 1.3586, y: 1.3586, z: 1.3586}
   m_Children:
   - {fileID: 942617585}
@@ -9846,7 +9867,26 @@ Transform:
   - {fileID: 905097689}
   m_Father: {fileID: 0}
   m_RootOrder: 24
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: -0.058000002, y: -0.09, z: -1.246}
+--- !u!95 &566392903
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 566392901}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: dd7032e6487d52e408eecf72a7a37f7c, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1001 &566786618
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -19523,6 +19563,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1040687117}
+  - component: {fileID: 1040687118}
   m_Layer: 0
   m_Name: plateStack (4)
   m_TagString: Untagged
@@ -19561,6 +19602,25 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 28
   m_LocalEulerAnglesHint: {x: -4.1540003, y: 2.621, z: 184.243}
+--- !u!95 &1040687118
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1040687116}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 5d05bcf365b620a4eb4b594b2a1800b3, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1053944043
 GameObject:
   m_ObjectHideFlags: 0
@@ -32814,6 +32874,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1512883433}
+  - component: {fileID: 1512883434}
   m_Layer: 0
   m_Name: plateStack (6)
   m_TagString: Untagged
@@ -32852,6 +32913,25 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 32
   m_LocalEulerAnglesHint: {x: -4.1540003, y: 2.621, z: 184.243}
+--- !u!95 &1512883434
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1512883432}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: afbd7d14bb867c14390063667665172d, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1001 &1521170577
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -44955,6 +45035,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1846887559}
+  - component: {fileID: 1846887560}
   m_Layer: 0
   m_Name: plateStack (5)
   m_TagString: Untagged
@@ -44993,6 +45074,25 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 29
   m_LocalEulerAnglesHint: {x: 5.9230003, y: -177.511, z: 363.435}
+--- !u!95 &1846887560
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1846887558}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7d1bda48028d90243a3628f095adb180, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1001 &1849057320
 PrefabInstance:
   m_ObjectHideFlags: 0
