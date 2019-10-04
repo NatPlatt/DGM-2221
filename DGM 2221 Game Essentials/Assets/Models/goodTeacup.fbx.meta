@@ -6,10 +6,9 @@ ModelImporter:
     100000: //RootNode
     400000: //RootNode
     2100000: lambert1
-    2100002: lambert3
     2300000: //RootNode
     3300000: //RootNode
-    4300000: teacup1_teacup
+    4300000: teacup
   externalObjects: {}
   materials:
     importMaterials: 1
