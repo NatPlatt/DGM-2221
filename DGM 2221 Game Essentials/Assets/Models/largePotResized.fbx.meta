@@ -1,14 +1,14 @@
 fileFormatVersion: 2
-guid: 1caaf5d65e9aaa7459d88f41eacd4059
+guid: 7ff8aee3582745142a9491f7e751cf67
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: basePot1_initialShadingGroup1
+    2100000: lambert2
     2300000: //RootNode
     3300000: //RootNode
-    4300000: handledPot
+    4300000: largePot
   externalObjects: {}
   materials:
     importMaterials: 1
