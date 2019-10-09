@@ -1,17 +1,13 @@
 fileFormatVersion: 2
-guid: ca030828f2333344ea6e576822ed270c
+guid: 71b1317688b3a7549987b87dcdb83092
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
-    100002: fishSkeleton
-    100004: imagePlane1
     400000: //RootNode
-    400002: fishSkeleton
-    400004: imagePlane1
     2100000: lambert1
-    2300000: fishSkeleton
-    3300000: fishSkeleton
+    2300000: //RootNode
+    3300000: //RootNode
     4300000: fishSkeleton
   externalObjects: {}
   materials:
