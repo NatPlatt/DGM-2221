@@ -1,12 +1,15 @@
 fileFormatVersion: 2
-guid: 98d286bf6162d0540acd564b61cc64bd
+guid: 3cf9ce61d67d93b468a7f25e989b41c3
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: tongueFixedExport_initialShadingGroup1
-    2100002: lambert1
+    2100000: blinn1
+    2100002: tongueFixedExport_initialShadingGroup1
+    2100004: blinn2
+    2100006: lambert1
+    2100008: lambert3
     2300000: //RootNode
     3300000: //RootNode
     4300000: tongueWithPot
