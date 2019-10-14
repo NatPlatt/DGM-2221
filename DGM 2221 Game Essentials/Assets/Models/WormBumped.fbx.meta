@@ -1,14 +1,15 @@
 fileFormatVersion: 2
-guid: 9c7c699a35d6ad74892fd2ef0ab34b14
+guid: a47100edca2122e49aaf6856ac2cc2e8
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: blinn1
+    2100000: No Name
     2300000: //RootNode
     3300000: //RootNode
-    4300000: worm
+    4300000: sphere_object1
+    2186277476908879412: ImportLogs
   externalObjects: {}
   materials:
     importMaterials: 1

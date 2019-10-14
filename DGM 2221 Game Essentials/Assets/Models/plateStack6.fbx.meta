@@ -1,14 +1,14 @@
 fileFormatVersion: 2
-guid: 9c7c699a35d6ad74892fd2ef0ab34b14
+guid: 1a504a4d6a9a44d4d89190d7caef0a8b
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: blinn1
+    2100000: lambert3
     2300000: //RootNode
     3300000: //RootNode
-    4300000: worm
+    4300000: plateStack6
   externalObjects: {}
   materials:
     importMaterials: 1

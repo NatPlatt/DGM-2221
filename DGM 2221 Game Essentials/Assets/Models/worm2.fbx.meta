@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9c7c699a35d6ad74892fd2ef0ab34b14
+guid: 1c9299088aa0e514284e0220d40a42a4
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -8,7 +8,7 @@ ModelImporter:
     2100000: blinn1
     2300000: //RootNode
     3300000: //RootNode
-    4300000: worm
+    4300000: worm1
   externalObjects: {}
   materials:
     importMaterials: 1
