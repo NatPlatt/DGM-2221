@@ -36580,6 +36580,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1259485480}
   - component: {fileID: 1259485481}
+  - component: {fileID: 1259485482}
   m_Layer: 0
   m_Name: eyes
   m_TagString: Untagged
@@ -36649,6 +36650,25 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!95 &1259485482
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1259485479}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c17869a1f40a68546b62923a46d348ca, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!4 &1259543030 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5948848609204339151, guid: 51cd412b26780a545862762ca073d670,
