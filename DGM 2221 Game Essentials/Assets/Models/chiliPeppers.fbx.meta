@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7c367ed750beb204ab5b69b503b77daa
+guid: 7cdeb7d1fc31f104fb85c32aaa8fcd0a
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -28,6 +28,16 @@ ModelImporter:
     400020: pepper8
     400022: pepper9
     2100000: lambert1
+    2100002: lambert2pepper2
+    2100004: lambert3pepper3
+    2100006: lambert4pepper4
+    2100008: lambert5pepper5
+    2100010: lambert6pepper6
+    2100012: lambert7pepper7
+    2100014: lambert8pepper8
+    2100016: lambert9pepper9
+    2100018: lambert10pepper10
+    2100020: lambert11pepper11
     2300000: pepper1
     2300002: pepper10
     2300004: pepper11
