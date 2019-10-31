@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: tongue 1
+  m_Name: frontFlyBody
   m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: _METALLICGLOSSMAP _NORMALMAP _PARALLAXMAP
   m_LightmapFlags: 4
@@ -20,7 +20,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: b71892c7cc0982245b8efbc05f7beafc, type: 3}
+        m_Texture: {fileID: 2800000, guid: 83239e7861750c04fa3d4911c9f04124, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
@@ -40,11 +40,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: c2034eb24560d844187c0753938bc860, type: 3}
+        m_Texture: {fileID: 2800000, guid: ff9a925a862f91c4b812e2b7ec234d5d, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
-        m_Texture: {fileID: 2800000, guid: be4c816000e55cf419a14e3a15e03896, type: 3}
+        m_Texture: {fileID: 2800000, guid: 9469cf6aba4814245ab2b2b69297ec5c, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
@@ -52,15 +52,15 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ParallaxMap:
-        m_Texture: {fileID: 2800000, guid: 5df50d17a88ee1342959a3c8eb100701, type: 3}
+        m_Texture: {fileID: 2800000, guid: 566d00464b58a8b439b6c56710c18e93, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _BumpScale: 4.31
+    - _BumpScale: 1
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
-    - _GlossMapScale: 0.58
+    - _GlossMapScale: 0.57
     - _Glossiness: 0.5
     - _GlossyReflections: 1
     - _Metallic: 0
