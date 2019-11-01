@@ -6426,6 +6426,31 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 137283872}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &139301777 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100004, guid: bbd5c7e1b125b764480ee02139969c98,
+    type: 3}
+  m_PrefabInstance: {fileID: 1903423695}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &139301778
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 139301777}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8c872f0274d2a744d882f5f0b87fc1c6, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1001 &140628765
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13643,7 +13668,7 @@ Camera:
   m_TargetEye: 3
   m_HDR: 1
   m_AllowMSAA: 1
-  m_AllowDynamicResolution: 0
+  m_AllowDynamicResolution: 1
   m_ForceIntoRT: 1
   m_OcclusionCulling: 1
   m_StereoConvergence: 10
@@ -43537,6 +43562,31 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 163151897}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1461411463 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100004, guid: 92d8def96d9035a4fa75bb443ada49fa,
+    type: 3}
+  m_PrefabInstance: {fileID: 30728438}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &1461411467
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1461411463}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: f49a53124f022db4593c45bbc76f706b, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1467899238
 GameObject:
   m_ObjectHideFlags: 0
