@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: 3c1d3a1f7db861f4dace015147f3c558
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: appleString2
+    100002: bowl
+    100004: cake
+    100006: cakeBox
+    100008: cakeDish2
+    100010: cakePlate
+    100012: fly1
+    100014: greenWorm
+    100016: mediumBox
+    100018: //RootNode
+    100020: noLidCan
+    100022: openBox1
+    100024: openLidCan1
+    100026: plate
+    100028: plate2
+    100030: plate3
+    100032: skinnyBox1
+    100034: tongue1
+    100036: tonguePot1
+    100038: tonguePotBox
+    100040: tornCloth3
+    100042: worm
+    100044: wormMound
+    400000: appleString2
+    400002: bowl
+    400004: cake
+    400006: cakeBox
+    400008: cakeDish2
+    400010: cakePlate
+    400012: fly1
+    400014: greenWorm
+    400016: mediumBox
+    400018: //RootNode
+    400020: noLidCan
+    400022: openBox1
+    400024: openLidCan1
+    400026: plate
+    400028: plate2
+    400030: plate3
+    400032: skinnyBox1
+    400034: tongue1
+    400036: tonguePot1
+    400038: tonguePotBox
+    400040: tornCloth3
+    400042: worm
+    400044: wormMound
+    2100000: lambert33
+    2300000: appleString2
+    2300002: bowl
+    2300004: cake
+    2300006: cakeBox
+    2300008: cakeDish2
+    2300010: cakePlate
+    2300012: fly1
+    2300014: greenWorm
+    2300016: mediumBox
+    2300018: noLidCan
+    2300020: openBox1
+    2300022: openLidCan1
+    2300024: plate
+    2300026: plate2
+    2300028: plate3
+    2300030: skinnyBox1
+    2300032: tongue1
+    2300034: tonguePot1
+    2300036: tonguePotBox
+    2300038: tornCloth3
+    2300040: worm
+    2300042: wormMound
+    3300000: appleString2
+    3300002: bowl
+    3300004: cake
+    3300006: cakeBox
+    3300008: cakeDish2
+    3300010: cakePlate
+    3300012: fly1
+    3300014: greenWorm
+    3300016: mediumBox
+    3300018: noLidCan
+    3300020: openBox1
+    3300022: openLidCan1
+    3300024: plate
+    3300026: plate2
+    3300028: plate3
+    3300030: skinnyBox1
+    3300032: tongue1
+    3300034: tonguePot1
+    3300036: tonguePotBox
+    3300038: tornCloth3
+    3300040: worm
+    3300042: wormMound
+    4300000: tonguePot1
+    4300002: openBox1
+    4300004: plate3
+    4300006: cakeBox
+    4300008: cake
+    4300010: mediumBox
+    4300012: noLidCan
+    4300014: bowl
+    4300016: tongue1
+    4300018: wormMound
+    4300020: greenWorm
+    4300022: plate2
+    4300024: tornCloth3
+    4300026: cakePlate
+    4300028: cakeDish2
+    4300030: fly1
+    4300032: tonguePotBox
+    4300034: appleString2
+    4300036: skinnyBox1
+    4300038: worm
+    4300040: openLidCan1
+    4300042: plate
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
