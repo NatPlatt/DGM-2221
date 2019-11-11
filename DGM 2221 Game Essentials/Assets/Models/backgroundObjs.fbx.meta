@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 4af0c2c4105a24840a1c6b601ac02f0c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: chipTeacup
+    100004: fishSkeleton1
+    100006: goodTeacup
+    100008: honeypot
+    100010: largeOven1
+    100012: mound
+    100014: openBox2
+    100016: peppers1
+    100018: plate
+    100020: skinnyBox2
+    100022: smallOven1
+    100024: spaghettiMan1
+    100026: spaghettiNoodle1
+    100028: teapot
+    400000: //RootNode
+    400002: chipTeacup
+    400004: fishSkeleton1
+    400006: goodTeacup
+    400008: honeypot
+    400010: largeOven1
+    400012: mound
+    400014: openBox2
+    400016: peppers1
+    400018: plate
+    400020: skinnyBox2
+    400022: smallOven1
+    400024: spaghettiMan1
+    400026: spaghettiNoodle1
+    400028: teapot
+    2100000: background
+    2100002: Default_Material
+    2300000: chipTeacup
+    2300002: fishSkeleton1
+    2300004: goodTeacup
+    2300006: honeypot
+    2300008: largeOven1
+    2300010: mound
+    2300012: openBox2
+    2300014: peppers1
+    2300016: plate
+    2300018: skinnyBox2
+    2300020: smallOven1
+    2300022: spaghettiMan1
+    2300024: spaghettiNoodle1
+    2300026: teapot
+    3300000: chipTeacup
+    3300002: fishSkeleton1
+    3300004: goodTeacup
+    3300006: honeypot
+    3300008: largeOven1
+    3300010: mound
+    3300012: openBox2
+    3300014: peppers1
+    3300016: plate
+    3300018: skinnyBox2
+    3300020: smallOven1
+    3300022: spaghettiMan1
+    3300024: spaghettiNoodle1
+    3300026: teapot
+    4300000: smallOven1
+    4300002: largeOven1
+    4300004: spaghettiNoodle1
+    4300006: mound
+    4300008: plate
+    4300010: skinnyBox2
+    4300012: openBox2
+    4300014: honeypot
+    4300016: chipTeacup
+    4300018: teapot
+    4300020: peppers1
+    4300022: goodTeacup
+    4300024: fishSkeleton1
+    4300026: spaghettiMan1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
