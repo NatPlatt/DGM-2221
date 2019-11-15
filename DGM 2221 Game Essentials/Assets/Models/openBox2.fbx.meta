@@ -1,14 +1,14 @@
 fileFormatVersion: 2
-guid: 382e12874fb76ea45ac4fb45fe3bdb9b
+guid: a403bd3fda3c8ab4cb45609437ff4df1
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: lambert33
+    2100000: lambert54
     2300000: //RootNode
     3300000: //RootNode
-    4300000: openBox1
+    4300000: openBox2
   externalObjects: {}
   materials:
     importMaterials: 1
