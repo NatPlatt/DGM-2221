@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 21247f0729a647643b316cb713957eeb
+guid: 3eb56c29fce9ea843b2d78918347eb30
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -39,7 +39,7 @@ ModelImporter:
     400030: joint8
     400032: joint9
     400034: //RootNode
-    7400000: Take 001
+    7400000: wormAnim4
     9500000: //RootNode
   externalObjects: {}
   materials:
@@ -68,7 +68,35 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: wormAnim4
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 1
   meshes:
     lODScreenPercentages: []
